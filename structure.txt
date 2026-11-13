@@ -1,0 +1,24 @@
+Features
+Add gift records
+View all gifts
+Search gifts by person or occasion
+Track planned, purchased, and given gifts
+Update gift details and status
+Delete gift records
+Track gift budgets and expenses
+View spending statistics
+
+Project Structure
+Personal_Gift_Tracker/
+│
+├── main.py
+├── gift_manager.py
+├── storage.py
+├── utils.py
+├── config.py
+├── requirements.txt
+├── .gitignore
+├── README.md
+│
+└── data/
+    └── gifts.json
